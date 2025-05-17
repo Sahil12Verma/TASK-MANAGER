@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center px-10">
         <div>
           <Link to="/" className="font-bold text-2xl">
-            Logo
+            Home
           </Link>
         </div>
         <div className="hidden md:block">
