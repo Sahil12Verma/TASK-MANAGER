@@ -39,7 +39,7 @@ A full-stack **Task Management Application** built using the **MERN** (MongoDB, 
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Kirissh/TaskManager.git
+
 ```
 
 ---
@@ -94,13 +94,7 @@ Start the React development server:
 npm run dev
 ```
 
----
 
-## API Documentation
-
-For a complete guide to available API endpoints, check out the **[Postman API Documentation](https://documenter.getpostman.com/view/12853812/2sA35Jzesu)**.
-
----
 
 ## How to Use
 
